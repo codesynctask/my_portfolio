@@ -1,0 +1,207 @@
+[
+  {
+    "type": "frontend",
+    "technologies": [
+      {
+        "name": "html",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "markup",
+          "language"
+        ]
+      },
+      {
+        "name": "css",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "stylesheet",
+          "language"
+        ]
+      },
+      {
+        "name": "javascript",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "server-side-scripting",
+          "language"
+        ]
+      },
+      {
+        "name": "react",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "server-side-scripting",
+          "language"
+        ]
+      },
+      {
+        "name": "tailwind",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "server-side-scripting",
+          "language"
+        ]
+      },
+      {
+        "name": "bootstrap",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "server-side-scripting",
+          "language"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Languages",
+    "technologies": [
+      {
+        "name": "C",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "markup",
+          "language"
+        ]
+      },
+      {
+        "name": "C++",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "stylesheet",
+          "language"
+        ]
+      },
+      {
+        "name": "php",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "server-side-scripting",
+          "language"
+        ]
+      },
+      {
+        "name": "python",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "server-side-scripting",
+          "language"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "backend",
+    "technologies": [
+      {
+        "name": "node js",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-runtime-environment",
+          "server-side"
+        ]
+      },
+      {
+        "name": "express js",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-runtime-environment",
+          "server-side"
+        ]
+      },
+      {
+        "name": "php",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-library",
+          "language"
+        ]
+      },
+      {
+        "name": "mvc",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-library",
+          "language"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "database",
+    "technologies": [
+      {
+        "name": "mysql",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-runtime-environment",
+          "server-side"
+        ]
+      },
+      {
+        "name": "mongodb",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-library",
+          "language"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "miscellaneous",
+    "technologies": [
+      {
+        "name": "cmd | bash",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-runtime-environment",
+          "server-side"
+        ]
+      },
+      {
+        "name": "git | github",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-library",
+          "language"
+        ]
+      },
+      {
+        "name": "ms office",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-runtime-environment",
+          "server-side"
+        ]
+      },
+      {
+        "name": "photoshop",
+        "summary": "lorem ipsum dolar sit ammet",
+        "level": 10,
+        "keyword": [
+          "js-runtime-environment",
+          "server-side"
+        ]
+      }
+    ]
+  }
+]

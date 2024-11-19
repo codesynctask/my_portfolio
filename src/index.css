@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  scroll-behavior: smooth;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  position: relative;
+
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-style: 100;
+}
+body::selection {
+  background: red;
+  color: rgb(255, 255, 255);
+}
+
+.pizza-slice {
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  /* transform: rotateZ(10deg); */
+  /* transform-origin: 50% 0; */
+}
+
+.text_bg {
+  background-color: red;
+  background-image: url(../goodBy.gif);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+

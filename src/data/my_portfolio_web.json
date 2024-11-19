@@ -1,0 +1,127 @@
+{
+  "name": "deepak sharma",
+  "age": 21,
+  "summary": "Enthusiastic and motivated Web Developer with a solid foundation in front-end technologies, including HTML, CSS, and JavaScript. Eager to apply knowledge of responsive design and basic back-end development (such as Node.js or PHP) to create dynamic web applications. A quick learner with a passion for coding and problem-solving, seeking to contribute to a collaborative team and enhance user experiences through innovative web solutions.",
+  "skills": {
+    "frontend": [
+      {
+        "skill_name": "html",
+        "skils_description": null
+      }, 
+      {
+        "skill_name": "css",
+        "skils_description": null
+      },
+      {
+        "skill_name": "javascript",
+        "skils_description": null
+      },
+      {
+        "skill_name": "react js",
+        "skils_description": null
+      },
+      {
+        "skill_name": "tailwind css",
+        "skils_description": null
+      },
+      {
+        "skill_name": "bootstrap css",
+        "skils_description": null
+      }
+    ],
+    "backend": [
+      {
+        "skill_name": "php",
+        "skils_description": null
+      },
+      {
+        "skill_name": "node js",
+        "skils_description": null
+      },
+      {
+        "skill_name": "express js",
+        "skils_description": null
+      },
+      {
+        "skill_name": "mvc",
+        "skils_description": null
+      }
+    ],
+    "database": [
+      {
+        "skill_name": "mysql",
+        "skils_description": null
+      },
+      {
+        "skill_name": "mongodb",
+        "skils_description": null
+      }
+    ],
+    "Languages": [
+      {
+        "skill_name": "c",
+        "skils_description": null
+      },
+      {
+        "skill_name": "c++",
+        "skils_description": null
+      },
+      {
+        "skill_name": "python",
+        "skils_description": null
+      },
+      {
+        "skill_name": "php",
+        "skils_description": null
+      }
+    ],
+    "miscellaneous": [
+      {
+        "skill_name": "cmd | bash",
+        "skils_description": null
+      },
+      {
+        "skill_name": "git |github",
+        "skils_description": null
+      },
+      {
+        "skill_name": "ms office",
+        "skils_description": null
+      },
+      {
+        "skill_name": "photoshop",
+        "skils_description": null
+      }
+    ]
+  },
+  "projects": [
+    {
+      "project_name": "web portfolio",
+      "project_photo": "https://i.pinimg.com/originals/9a/84/fb/9a84fb4f7a8de76fcc6323500ed03804.gif",
+      "project_description": "This is the description about web portfolio",
+      "project_link": "https://themewagon.com/themes/free-bootstrap-portfolio-website-template-meyawo/",
+      "project_tech_stack": ["html |css |js","react" , "tailwind" , "jsap","json"]
+    },
+    {
+      "project_name": "hotel booking management system",
+      "project_photo": "https://i.pinimg.com/originals/89/2c/b0/892cb0a20c2722b86b995158ca46b543.gif",
+      "project_description": "This is the description about hotel booking management system",
+      "project_link": null,
+      "project_tech_stack": ["python","OOPs","py-tuple"]
+    },
+    {
+      "project_name": "spotify clone",
+      "project_photo": "https://media1.tenor.com/m/CfgU30sl8SoAAAAC/heatblast.gif",
+      "project_description": "This is the description about web portfolio spotify frontedn clone",
+      "project_link": null,
+      "project_tech_stack": ["html | css | js", "json"]
+    }
+  ],
+  "contact_link": [
+    { "name": "facebook", "jump_link": "/facebook" },
+    { "name": "instagram", "jump_link": "/instagram" },
+    { "name": "twitter", "jump_link": "/twitter" },
+    { "name": "linkedin", "jump_link": "/linkedin" },
+    { "name": "github", "jump_link": "/github" }
+]
+}

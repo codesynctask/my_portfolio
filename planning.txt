@@ -1,0 +1,13 @@
+1. theme will be 2d cartoon black and white 
+
+A. Component
+    1. nav 
+        nav-item
+            icon - hover
+            text
+    
+    2. content
+        #this section going to cover about my intro and profession
+        #like on scroll selection to nav also going to change eg. home -> project   
+    3. footer
+        A very basic footer 
